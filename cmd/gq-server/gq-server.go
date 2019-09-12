@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cbeuw/GoQuiet/gqserver"
+	"github.com/ojeo/GoQuiet/gqserver"
 )
 
 var version string

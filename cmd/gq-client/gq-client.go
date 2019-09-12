@@ -12,8 +12,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/cbeuw/GoQuiet/gqclient"
-	"github.com/cbeuw/GoQuiet/gqclient/TLS"
+	"github.com/ojeo/GoQuiet/gqclient"
+	"github.com/ojeo/GoQuiet/gqclient/TLS"
 )
 
 var version string
